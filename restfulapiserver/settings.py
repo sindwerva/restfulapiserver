@@ -25,7 +25,7 @@ SECRET_KEY = 'glmxr!od=%oeh###tmiv2wbehe8%^%bih!x8-7w4mp%7i#(3^s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.124.130.148']
+ALLOWED_HOSTS = ['3.35.210.162']
 
 
 # Application definition
